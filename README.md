@@ -38,12 +38,12 @@ Listez les versions ici
 _exemple :_
 **Dernière version stable :** 1.0
 **Dernière version :** 1.0
-Releases : [Cliquer pour afficher](https://github.com/McKydrox/KydUpgrade/releases/tag/Upgrade)
+Releases : [Soon...]()
 
 
 ## Authors
 
 
-* **McKydrox* _alias_ [ҠψDrФX#2933](https://discord.com)
+* **McKydrox* _alias_ [Kydrox#2933](https://discord.com)
 
 
