@@ -38,7 +38,7 @@ Listez les versions ici
 _exemple :_
 **Dernière version stable :** 1.0
 **Dernière version :** 1.0
-Releases : [Soon...]()
+Releases : [-----](https://github.com/McKydrox/KydUpgradeV2/releases/tag/up)
 
 
 ## Authors
