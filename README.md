@@ -34,7 +34,6 @@ _Link :_
 
 
 ## Versions
-_exemple :_
 **Dernière version stable :** 1.0
 **Dernière version :** 1.0
 Releases : [Click here](https://github.com/McKydrox/KydUpgradeV2/releases/tag/up)
