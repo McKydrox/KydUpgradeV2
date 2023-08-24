@@ -34,7 +34,7 @@ _Link :_
 
 
 ## Versions
-**Dernière version stable :** 1.0
+**Last stable version :** 1.0
 
 Releases : [Click here](https://github.com/McKydrox/KydUpgradeV2/releases/tag/up)
 
